@@ -2,5 +2,9 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="D:\для жены\java\GeekBrain\src\ru\geekbrains\Java_Algorithms\Lesson2\algorithms-and-data-structures" vcs="Git" />
+    <mapping directory="D:\для жены\java\GeekBrain\src\ru\geekbrains\Java_Algorithms\Lesson_2" vcs="Git" />
+    <mapping directory="D:\для жены\java\GeekBrain\src\ru\geekbrains\Java_Algorithms\algorithms" vcs="Git" />
+    <mapping directory="D:\для жены\java\GeekBrain\src\ru\geekbrains\algorithms_and_data_structures\algorithms-and-data-structures" vcs="Git" />
   </component>
 </project>
